@@ -1,25 +1,28 @@
 
-<h1 align="center">Hi 👋, I'm Esra</h1>
-<h3 align="center">A passionate software developer student from Turkey</h3>
+### Hi there 👋, My name is Esra
+#### I'm a GitHub new member.
+![I'm a GitHub new member.](https://res.cloudinary.com/practicaldev/image/fetch/s--wriPgVZk--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1mnjflq5zrcyg2av8biz.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esrayildirim&label=Profile%20views&color=0e75b6&style=flat" alt="esrayildirim" /> </p>
+Just started coding. I am aiming to win 42 Ecole.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esrayildirim" alt="esrayildirim" /></a> </p>
+Skills: C#/C++ ==> under development
 
-- 🌱 I’m currently learning **C languages and Git, GitHub**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning C#,C++ 
+- 📫 How to reach me: esrayildirim41.tr@gmail.com 
 
-- 📫 How to reach me **esrayildirim@gmail.com**
 
-- ⚡ Fun fact **I am fun**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EsraYildirim)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=EsraYildirim)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYildirim)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esrayildirim&show_icons=true&locale=en&layout=compact" alt="esrayildirim" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EsraYildirim&show_icons=true&count_private=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esrayildirim&show_icons=true&locale=en" alt="esrayildirim" /></p>
+![GitHub metrics](https://metrics.lecoq.io/EsraYildirim)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=EsraYildirim)  
+
+![Profile views](https://gpvc.arturio.dev/EsraYildirim)  
 
