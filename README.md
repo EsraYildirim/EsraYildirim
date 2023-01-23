@@ -1,4 +1,4 @@
-<img aling="right" alt="coding" width="800" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
+
 <h1 align="center">Hi 👋, I'm Esra</h1>
 <h3 align="center">A passionate software developer student from Turkey</h3>
 
