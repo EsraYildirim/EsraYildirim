@@ -1,23 +1,18 @@
-
-### Hi there 👋, My name is Esra
-#### I'm a GitHub new member.
-![I'm a GitHub new member.](https://res.cloudinary.com/practicaldev/image/fetch/s--wriPgVZk--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1mnjflq5zrcyg2av8biz.png)
+# 💫 About Me:
+🚀My goal is to become a full stack developer.
 
 
-- 🔭 I’m currently working on this page. 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EsraYildirim&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=EsraYildirim&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYildirim&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EsraYildirim&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EsraYildirim)  
+---
+[![](https://visitcount.itsvg.in/api?id=EsraYildirim&icon=9&color=0)](https://visitcount.itsvg.in)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EsraYildirim)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYildirim)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EsraYildirim&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/EsraYildirim)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=EsraYildirim)  
-
-![Profile views](https://gpvc.arturio.dev/EsraYildirim)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
