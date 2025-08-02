@@ -3,13 +3,8 @@
 #### I'm a GitHub new member.
 ![I'm a GitHub new member.](https://res.cloudinary.com/practicaldev/image/fetch/s--wriPgVZk--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1mnjflq5zrcyg2av8biz.png)
 
-Just started coding. I am aiming to win 42 Ecole.
-
-Skills: C#/C++ ==> under development
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning C#,C++ 
-- 📫 How to reach me: esrayildirim41.tr@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EsraYildirim)  
