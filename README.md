@@ -4,7 +4,7 @@
   👩‍💻 Full-Stack Developer | 🤖 Robotics Enthusiast | 🚀 Tech Explorer
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qDPqCqLoN0H2DFK/giphy.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/lnjI7nu2tGgAAAAd/ron-swanson-throws-out-his-computer.gif" width="200"/>
 </p>
 
 ---
