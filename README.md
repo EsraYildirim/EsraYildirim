@@ -45,10 +45,10 @@ Hi! I'm a passionate **full-stack developer** who loves turning ideas into reali
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/esra-y-52ba43261">
+  <a href="https://www.linkedin.com/in/esra-y-52ba43261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/EsraYildirim">
+  <a href="https://github.com/EsraYildirim" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
