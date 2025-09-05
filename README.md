@@ -4,7 +4,7 @@
   👩‍💻 Full-Stack Developer | 🤖 Robotics Enthusiast | 🚀 Tech Explorer
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qDPqCqLoN0H2DFK/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/3o7qDPqCqLoN0H2DFK/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fthoughts-productions-of-grandeur--597993656782860897%2F&psig=AOvVaw2yZWOh0Y9HhJ0opLs1Tpa5&ust=1757188667068000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDO-oS0wo8DFQAAAAAdAAAAABB0)" width="200"/>
 </p>
 
 ---
@@ -40,24 +40,10 @@ I love experimenting with **.NET, JavaScript, Arduino projects**, and learning n
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsraYildirim&theme=radical&show_icons=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraYildirim&theme=radical"/>
-</p>
-<p align="center">
-  <strong>Top Languages:</strong><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYildirim&theme=radical&layout=compact"/>
-</p>
+## 📂 Languages in My Projects
 
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EsraYildirim&theme=radical&no-frame=false&no-bg=true&margin-w=15"/>
-</p>
+<!-- Replace REPO_NAME with your GitHub repository name -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYildirim&repo=REPO_NAME&theme=radical&layout=compact" />
 
 ---
 
