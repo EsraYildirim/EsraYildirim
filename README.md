@@ -4,7 +4,7 @@
   👩‍💻 Full-Stack Developer | 🤖 Robotics Enthusiast | 🚀 Tech Explorer
 </p>
 <p align="center">
-  <img src="[[https://media.giphy.com/media/3o7qDPqCqLoN0H2DFK/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fthoughts-productions-of-grandeur--597993656782860897%2F&psig=AOvVaw2yZWOh0Y9HhJ0opLs1Tpa5&ust=1757188667068000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDO-oS0wo8DFQAAAAAdAAAAABB0)](https://media1.tenor.com/m/lnjI7nu2tGgAAAAd/ron-swanson-throws-out-his-computer.gif)" width="200"/>
+  <img src="https://media.giphy.com/media/3o7qDPqCqLoN0H2DFK/giphy.gif" width="200"/>
 </p>
 
 ---
