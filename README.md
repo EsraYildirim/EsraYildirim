@@ -10,11 +10,12 @@
 ---
 
 ## 🌟 About Me
-Hi! I'm a passionate **full-stack developer** who loves turning ideas into reality.  
+Hi! I'm a **beginner full-stack developer** 🚀  
+Just starting my coding journey and eager to learn new technologies every day.  
 
-- 🚀 Exploring the latest tech trends  
-- 🤖 Building cool hardware + software projects  
-- 💡 Open to collaboration & innovative ideas  
+- 🌱 Learning **HTML, CSS, JavaScript**  
+- 🚀 I improve myself by developing projects and learning from every experience.
+- 💡 I aim to create unique solutions.
 
 ---
 
