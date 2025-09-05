@@ -39,14 +39,13 @@ Hi! I'm a passionate **full-stack developer** who loves turning ideas into reali
 ## 📂 Languages in My Projects
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYildirim&repo=Project1&theme=radical&layout=compact" alt="Project1 Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYildirim&repo=Project2&theme=radical&layout=compact" alt="Project2 Languages"/>
 </p>
 
 ---
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/esrayildirim">
+  <a href="www.linkedin.com/in/esra-y-52ba43261">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/EsraYildirim">
