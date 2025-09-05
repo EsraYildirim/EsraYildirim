@@ -4,25 +4,21 @@
   👩‍💻 Full-Stack Developer | 🤖 Robotics Enthusiast | 🚀 Tech Explorer
 </p>
 <p align="center">
-  <img src="https://media1.tenor.com/m/lnjI7nu2tGgAAAAd/ron-swanson-throws-out-his-computer.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="250"/>
 </p>
 
 ---
 
-<!-- ABOUT ME -->
 ## 🌟 About Me
-I'm a passionate **full-stack developer** aiming to turn ideas into reality.  
-I love experimenting with **.NET, JavaScript, Arduino projects**, and learning new technologies every day.  
+Hi! I'm a passionate **full-stack developer** who loves turning ideas into reality.  
 
-- 🚀 Always exploring new tech trends  
-- 🤖 Building hardware + software projects  
+- 🚀 Exploring the latest tech trends  
+- 🤖 Building cool hardware + software projects  
 - 💡 Open to collaboration & innovative ideas  
 
 ---
 
-<!-- TECH STACK -->
 ## 💻 Tech Stack
-
 <p align="center">
   <strong>Frontend:</strong>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -41,29 +37,25 @@ I love experimenting with **.NET, JavaScript, Arduino projects**, and learning n
 ---
 
 ## 📂 Languages in My Projects
-
-<!-- Replace REPO_NAME with your GitHub repository name -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYildirim&repo=REPO_NAME&theme=radical&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYildirim&repo=Project1&theme=radical&layout=compact" alt="Project1 Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraYildirim&repo=Project2&theme=radical&layout=compact" alt="Project2 Languages"/>
+</p>
 
 ---
 
-<!-- SOCIAL LINKS -->
-## 📫 Connect with me
+## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/esrayildirim" target="_blank">
+  <a href="https://linkedin.com/in/esrayildirim">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/EsraYildirim" target="_blank">
+  <a href="https://github.com/EsraYildirim">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- VISITOR COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EsraYildirim&color=brightgreen" alt="Visitor Count"/>
 </p>
